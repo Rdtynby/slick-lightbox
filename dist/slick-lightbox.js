@@ -350,4 +350,4 @@
             return this.slickLightbox = null;
         });
     };
-}(jQuery));
+}(require('jquery')));
